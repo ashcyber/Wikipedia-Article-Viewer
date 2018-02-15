@@ -1,0 +1,50 @@
+.main-title{
+  font-size: 50px; 
+  font-family: 'Roboto Condensed',sans-serif;
+}
+
+#search_btn{
+  width: 100px; 
+}
+
+#random{
+  width: 100px; 
+}
+
+
+#search_btn:hover{
+  background-color: #ccc; 
+  border: 1px solid #ccc; 
+}
+
+#random:hover{
+  background-color: #ccc; 
+  border: 1px solid #ccc; 
+}
+
+
+
+#wiki_list li{
+  list-style-type: none; 
+  border-bottom: 1px solid #ccc;  
+  padding: 5px; 
+
+}
+
+
+#wiki_list li:hover{
+  list-style-type: none; 
+  border-bottom: 1px solid #ccc;  
+  background-color: #ccc;
+}
+
+#wiki_list li h4{
+  color: #000; 
+}
+#wiki_list li p{
+  color: #2962FF; 
+}
+
+a:hover {
+  text-decoration: none; 
+}
